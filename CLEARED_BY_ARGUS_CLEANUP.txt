@@ -1,0 +1,3 @@
+repo=OrMizrahi12/argus-wgs-electrician-02-yehud-0e2204-concept
+cleared_at_utc=2026-05-14T13:19:19.395534+00:00
+action=disable_pages_and_force_push_minimal_main
